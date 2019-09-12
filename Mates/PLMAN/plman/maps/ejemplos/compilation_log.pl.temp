@@ -1,0 +1,21 @@
+ERROR: /home/alu/Escritorio/plman/maps/ejemplos/solucion00.pl:1:
+	source_sink `'pl-man-game/main'' does not exist
+Warning: /home/alu/Escritorio/plman/maps/ejemplos/solucion00.pl:1:
+	Goal (directive) failed: user:use_module('pl-man-game/main')
+% autoloading prolog_codewalk:must_be/2 from /usr/lib/swi-prolog/library/error
+% autoloading qsave:current_foreign_library/2 from /usr/lib/swi-prolog/library/shlib
+% autoloading error:assertion/1 from /usr/lib/swi-prolog/library/debug
+% autoloading prolog_codewalk:clause_info/4 from /usr/lib/swi-prolog/library/prolog_clause
+% autoloading prolog_codewalk:initialization_layout/4 from /usr/lib/swi-prolog/library/prolog_clause
+% autoloading prolog_codewalk:portray_clause/1 from /usr/lib/swi-prolog/library/listing
+% autoloading record:member/2 from /usr/lib/swi-prolog/library/lists
+% autoloading prolog_debug:backtrace/1 from /usr/lib/swi-prolog/library/prolog_stack
+% autoloading oset:reverse/2 from /usr/lib/swi-prolog/library/lists
+% autoloading prolog_codewalk:clause_name/2 from /usr/lib/swi-prolog/library/prolog_clause
+% Autoloader: iteration 1 resolved 10 predicates and loaded 10 files in 0.133 seconds.  Restarting ...
+% autoloading prolog_source:directory_file_path/3 from /usr/lib/swi-prolog/library/filesex
+% autoloading files_ex:use_foreign_library/2 from /usr/lib/swi-prolog/library/shlib
+% autoloading files_ex:permission_error/3 from /usr/lib/swi-prolog/library/error
+% autoloading files_ex:maplist/2 from /usr/lib/swi-prolog/library/apply
+% Autoloader: iteration 2 resolved 1 predicates and loaded 4 files in 0.058 seconds.  Restarting ...
+% Autoloader: loaded 11 files in 3 iterations in 0.224 seconds

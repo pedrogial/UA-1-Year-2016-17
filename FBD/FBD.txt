@@ -1,0 +1,13 @@
+select --> columna (Seleccionar todo de la tabla '*')
+from --> tabla
+Where -->  determinada condición (>, <, >=, <=, <>, !=)
+order by --> ordenar (DESC y ASC)
+Null--> no tiene valor (='')(IS NULL)(IS NOT NULL)
+Constantes --> 'Cosas'
+Comparar dos tablas con variables puestas en 'from'
+Quitar duplicados con select distinct
+Like --> (Mostrar cosas con caracteres)
+IN --> (Select * from *)
+Fechas
+
+

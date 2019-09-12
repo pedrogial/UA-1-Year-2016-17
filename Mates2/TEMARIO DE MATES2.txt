@@ -1,0 +1,39 @@
+TEMARIO DE MATES + LINKS DE AYUDA
+----------------------------------
+
+1.- Cálculo de Áreas y optimización (Derivar e igualar a 0)
+http://www.vitutor.com/fun/5/b_a.html
+
+2.- Volúmenes de revolución
+http://calculo.cc/temas/temas_bachillerato/segundo_ciencias/integral_defi/problemas/p_integral_volumenes.html
+
+//3.- Fórmula recursiva de De Casteljau y polinomios de Bernstein
+http://www.geometriadinamica.cl/2012/07/algoritmo-de-de-casteljau/
+Junio 2013 o Apuntes M2 para ver los polinomios de Bernstein
+
+4.- Regula Falsi o Regla Falsa (Salio en Julio 2013)
+
+5.- Método de la bisección y método de la secante respectivamente
+http://portales.puj.edu.co/objetosdeaprendizaje/Online/OA10/capitulo5/5.htm
+http://es.wikipedia.org/wiki/M%C3%A9todo_de_la_secante
+
+6.- Método de las diferencias divididas NO CONFUNDIR CON MÉTODO DE HERMITE
+http://personal.us.es/angeles/Actual/Farmacia/teoria/MATema5.pdf
+
+//7.- Splines (Intentar entender ejercicios resuletos de años anteriores
+al igual que los de las hojas) Las páginas que mejor explican splines no
+valen la pena. En los apuntes sale mejor.
+
+8.- Operaciones que Errores Absolutos. (Facil?) Entrará uno 100%
+Apuntes!!
+
+9.- Método de Hermite
+http://gyazo.com/5e17646e6fc352cb47598b9686fedf88
+Espero que lo entendais es bastante sencillo y muy parecido a las diferencias divididas
+
+10.- Método de Newton
+http://huitoto.udea.edu.co/Matematicas/latrue9.9.6.html
+
+11.- Area entre funciones/funcion-ejes/funcion-recta
+FACIL: http://www.slideshare.net/alicia.gemignani/area-bajo-una-curva-presentation
+DE EXAMEN: http://www.vitutor.com/integrales/definidas/integrales_areas.html
